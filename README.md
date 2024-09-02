@@ -1,5 +1,5 @@
-### Hello...! 👋
-I'm Sujan Shirol, a specialist in Machine Learning, Statistics, and Data Analysis, and a 3x Kaggle Expert.
+# Hello...! 👋\n
+I'm Vishnu, a specialist in Machine Learning, Statistics, and Data Analysis, and a 3x Kaggle Expert.
 
 About Me 👇
 🎯 Current Role:
